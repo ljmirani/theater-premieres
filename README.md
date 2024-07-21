@@ -1,5 +1,5 @@
 
- # Project Two: Theater Premiers
+ # Project Two: Theater Premieres
 
 For the second Project of the Lede Program 2024 I wanted to make a guide to the new plays of some of my favorite theaters in Munich and Berlin. Honestly this project failed - but 
 I also learned quite a few things (so not a total fail). My mistakes were bad time-management (to be fair, that wad due to an unexpectly big workload in my job), overcomplicating things and wanting to do more than I could at this point. So it became a fraction of what it was supposed to be, but that is okay and onto the next.

@@ -15,7 +15,7 @@ I also learned quite a few things (so not a total fail). My mistakes were bad ti
 
 ## What I learned
 * The Basics of Scraping
-* Using new data cleaning tricks, we learned in class
+* Using new data cleaning tricks we learned in class
 
 ## What I would have liked to do (with more time/skills)
 * so many things
